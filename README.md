@@ -30,9 +30,7 @@
 <h2>🛠️ Tech Stack</h2>
 <ul>
   <li><strong>Frontend:</strong> Flutter (Dart)</li>
-  <li><strong>Backend:</strong> Firebase / REST APIs (if applicable)</li>
-  <li><strong>Database:</strong> Cloud Firestore / SQLite</li>
-  <li><strong>Platform:</strong> Android (and iOS if extended)</li>
+  <li><strong>Backend:</strong> Firebase</li>
 </ul>
 
 <hr>
